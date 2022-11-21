@@ -20,28 +20,36 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap"
       rel="stylesheet"
     />
-    <title>Flag Quiz</title>
+    <title>All Flags - Flag Quiz</title>
   </head>
   <body>
-    <main class="text-justify text-center main">
+    <main>
       <div class="container">
-        <h1 class="big">Flag Quiz Game</h1>
-        <h2>Select Gamemode</h2>
-        <a href="">Learn</a><br />
-        <a href="http://ndquiz.epizy.com/flags/all.html">All (251)</a><br />
-        <a href="">All Sovereign (195)</a><br />
-        <a href="">Easy (15)</a><br />
-        <a href="">Medium (30)</a><br />
-        <a href="">Hard (60)</a><br />
-        <a href="">Africa (55)</a><br />
-        <a href="">Americas (35)</a><br />
-        <a href="">Asia (51)</a><br />
-        <a href="">Europe (50)</a><br />
-        <a href="">Oceania (14)</a><br />
+        <h1 class="big"><span>All Flags</span></h1>
+        <div class="container">
+          <h2 class="score">
+            <span>Score: <span></span>/251</span>
+          </h2>
+        </div>
+        <div class="flag">
+          <div class="image">
+            <img id="img" />
+            <div class="options">
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="gameOver">
+          <h3 class="finalScore">Score: <span></span>/251</h3>
+          <button>Play Again</button>
+          <button>Try a different gamemode</button>
+        </div>
       </div>
     </main>
-    <footer>
-      Flags from <a href="https://flagpedia.net/" target="_blank">Flagpedia</a>
-    </footer>
+    <script src="index.js"></script>
   </body>
 </html>

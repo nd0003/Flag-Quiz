@@ -23,33 +23,40 @@
     <title>All Flags - Flag Quiz</title>
   </head>
   <body>
-    <main>
+    <main class="text-justify text-center main">
       <div class="container">
         <h1 class="big"><span>All Flags</span></h1>
         <div class="container">
           <h2 class="score">
             <span>Score: <span></span>/251</span>
           </h2>
+          <h2 class="num">Question: <span></span></h2>
         </div>
-        <div class="flag">
-          <div class="image">
-            <img id="img" />
-            <div class="options">
-              <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-              </ul>
-            </div>
+        <div class="image">
+          <div class="flag-img">
+            <img src="" />
+          </div>
+          <div class="options">
+            <ul>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ul>
           </div>
         </div>
-        <div class="gameOver">
-          <h3 class="finalScore">Score: <span></span>/251</h3>
-          <button>Play Again</button>
-          <button>Try a different gamemode</button>
+        <button onclick="restart()" class="btn-game restart">Restart</button>
+        <button onclick="newGame()" class="btn-game new-game">
+          Try a different gamemode
+        </button>
+        <div class="score-div">
+          <h3 class="correct">Correct Answers: <span></span>/251</h3>
+          <button onclick="restart()" class="btn-game restart">Restart</button>
+          <button onclick="newGame()" class="btn-game new-game">
+            Try a different gamemode
+          </button>
         </div>
       </div>
     </main>
-    <script src="index.js"></script>
+    <script src="all.js"></script>
   </body>
 </html>

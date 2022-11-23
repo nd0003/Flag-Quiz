@@ -30,3 +30,19 @@ body {
 .big {
   font-size: 60px;
 }
+
+.btn-game {
+  border-radius: 10px;
+}
+
+.restart {
+  width: 70px;
+}
+
+.new-game {
+  width: 200px;
+}
+
+.score-div {
+  display: none;
+}

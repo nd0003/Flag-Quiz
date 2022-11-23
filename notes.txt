@@ -1,0 +1,16 @@
+flagImgDiv = imgDiv
+flagImg = flagImg
+flagOptions = options
+flagLis = list
+score = score
+currentIndex = currentIndex
+rightAnswer = rightAnswer
+
+getQuestions = getQ
+myRequest = myReq
+questions = questions
+qCount = numQ
+questionNum = qNum
+addQuestionData = addData
+checkAnswer = checkAns
+count = numm

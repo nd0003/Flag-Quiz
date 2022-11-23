@@ -1,46 +1,46 @@
 [
   {
-    "img": "https://flagcdn.com/h240/af.png",
+    "img": "af.png",
     "options": ["algeria", "albania", "afghanistan"],
     "answer": "afghanistan"
   },
   {
-    "img": "https://flagcdn.com/h240/ax.png",
+    "img": "ax.png",
     "options": ["sweden", "finland", "aland islands", "iceland"],
     "answer": "aland islands"
   },
   {
-    "img": "https://flagcdn.com/h240/al.png",
+    "img": "al.png",
     "options": ["albania", "algeria", "montenegro"],
     "answer": "albania"
   },
   {
-    "img": "https://flagcdn.com/h240/as.png",
+    "img": "as.png",
     "options": ["mexico", "kiribati", "american samoa"],
     "answer": "american samoa"
   },
   {
-    "img": "https://flagcdn.com/h240/ad.png",
+    "img": "ad.png",
     "options": ["moldova", "andorra", "romania"],
     "answer": "andorra"
   },
   {
-    "img": "https://flagcdn.com/h240/ao.png",
+    "img": "ao.png",
     "options": ["angola", "dr congo", "botswana"],
     "answer": "angola"
   },
   {
-    "img": "https://flagcdn.com/h240/ai.png",
+    "img": "ai.png",
     "options": ["anguilla", "dominica", "haiti"],
     "answer": "anguilla"
   },
   {
-    "img": "https://flagcdn.com/h240/aq.png",
+    "img": "aq.png",
     "options": ["cook islands", "antarctica", "british indian ocean terrirory"],
     "answer": "antarctica"
   },
   {
-    "img": "https://flagcdn.com/h240/ag.png",
+    "img": "ag.png",
     "options": [
       "antigua and barbuda",
       "trinidad and tobago",
@@ -49,112 +49,112 @@
     "answer": "antigua and barbuda"
   },
   {
-    "img": "https://flagcdn.com/h240/ar.png",
+    "img": "ar.png",
     "options": ["peru", "uruguay", "argentina"],
     "answer": "argentina"
   },
   {
-    "img": "https://flagcdn.com/h240/am.png",
+    "img": "am.png",
     "options": ["bulgaria", "serbia", "armenia"],
     "answer": "armenia"
   },
   {
-    "img": "https://flagcdn.com/h240/aw.png",
+    "img": "aw.png",
     "options": ["laos", "panama", "aruba"],
     "answer": "aruba"
   },
   {
-    "img": "https://flagcdn.com/h240/au.png",
+    "img": "au.png",
     "options": ["austria", "australia", "new zealand"],
     "answer": "australia"
   },
   {
-    "img": "https://flagcdn.com/h240/at.png",
+    "img": "at.png",
     "options": ["australia", "austria", "new zealand"],
     "answer": "austria"
   },
   {
-    "img": "https://flagcdn.com/h240/az.png",
+    "img": "az.png",
     "options": ["uzbekistan", "libya", "azerbaijan"],
     "answer": "azerbaijan"
   },
   {
-    "img": "https://flagcdn.com/h240/bs.png",
+    "img": "bs.png",
     "options": ["bahamas", "cuba", "haiti"],
     "answer": "bahamas"
   },
   {
-    "img": "https://flagcdn.com/h240/bh.png",
+    "img": "bh.png",
     "options": ["qatar", "uae", "bahrain"],
     "answer": "bahrain"
   },
   {
-    "img": "https://flagcdn.com/h240/bd.png",
+    "img": "bd.png",
     "options": ["palau", "bangladesh", "japan"],
     "answer": "bangladesh"
   },
   {
-    "img": "https://flagcdn.com/h240/bb.png",
+    "img": "bb.png",
     "options": ["barbados", "bahamas", "grenada"],
     "answer": "barbados"
   },
   {
-    "img": "https://flagcdn.com/h240/by.png",
+    "img": "by.png",
     "options": ["lithuania", "turkmenistan", "belarus"],
     "answer": "belarus"
   },
   {
-    "img": "https://flagcdn.com/h240/be.png",
+    "img": "be.png",
     "options": ["belgium", "germany", "netherlands"],
     "answer": "belgium"
   },
   {
-    "img": "https://flagcdn.com/h240/bz.png",
+    "img": "bz.png",
     "options": ["nicaragua", "belize", "honduras"],
     "answer": "belize"
   },
   {
-    "img": "https://flagcdn.com/h240/bj.png",
+    "img": "bj.png",
     "options": ["togo", "madagascar", "benin"],
     "answer": "benin"
   },
   {
-    "img": "https://flagcdn.com/h240/bm.png",
+    "img": "bm.png",
     "options": ["fiji", "bermuda", "tuvalu"],
     "answer": "bermuda"
   },
   {
-    "img": "https://flagcdn.com/h240/bt.png",
+    "img": "bt.png",
     "options": ["sri lanka", "bhutan", "wales"],
     "answer": "bhutan"
   },
   {
-    "img": "https://flagcdn.com/h240/bo.png",
+    "img": "bo.png",
     "options": ["bolivia", "peru", "chile"],
     "answer": "bolivia"
   },
   {
-    "img": "https://flagcdn.com/h240/ba.png",
+    "img": "ba.png",
     "options": ["bosnia and herzegovina", "croatia", "trinidad and tobago"],
     "answer": "bosnia and herzegovina"
   },
   {
-    "img": "https://flagcdn.com/h240/bw.png",
+    "img": "bw.png",
     "options": ["argentina", "estonia", "botswana"],
     "answer": "botswana"
   },
   {
-    "img": "https://flagcdn.com/h240/bv.png",
+    "img": "bv.png",
     "options": ["bouvet island", "iceland", "denmark"],
     "answer": "bouvet island"
   },
   {
-    "img": "https://flagcdn.com/h240/br.png",
+    "img": "br.png",
     "options": ["colombia", "brazil", "portugal"],
     "answer": "brazil"
   },
   {
-    "img": "https://flagcdn.com/h240/io.png",
+    "img": "io.png",
     "options": [
       "falkland islands",
       "cayman islands",
@@ -163,107 +163,107 @@
     "answer": "british indian ocean territory"
   },
   {
-    "img": "https://flagcdn.com/h240/bn.png",
+    "img": "bn.png",
     "options": ["maldives", "brunei", "mauritania"],
     "answer": "brunei"
   },
   {
-    "img": "https://flagcdn.com/h240/bg.png",
+    "img": "bg.png",
     "options": ["slovakia", "bulgaria", "romania"],
     "answer": "bulgaria"
   },
   {
-    "img": "https://flagcdn.com/h240/bf.png",
+    "img": "bf.png",
     "options": ["senegal", "burkina faso", "vietnam"],
     "answer": "burkina faso"
   },
   {
-    "img": "https://flagcdn.com/h240/bi.png",
+    "img": "bi.png",
     "options": ["burundi", "rwanda", "uganda"],
     "answer": "burundi"
   },
   {
-    "img": "https://flagcdn.com/h240/cv.png",
+    "img": "cv.png",
     "options": ["cook islands", "european union", "cabo verde"],
     "answer": "cabo verde"
   },
   {
-    "img": "https://flagcdn.com/h240/kh.png",
+    "img": "kh.png",
     "options": ["thailand", "laos", "cambodia"],
     "answer": "cambodia"
   },
   {
-    "img": "https://flagcdn.com/h240/cm.png",
+    "img": "cm.png",
     "options": ["senegal", "cameroon", "ghana"],
     "answer": "cameroon"
   },
   {
-    "img": "https://flagcdn.com/h240/ca.png",
+    "img": "ca.png",
     "options": ["canada", "greenland", "kazakhstan"],
     "answer": "canada"
   },
   {
-    "img": "https://flagcdn.com/h240/bq.png",
+    "img": "bq.png",
     "options": ["caribbean netherlands", "british virgin islands", "cuba"],
     "answer": "caribbean netherlands"
   },
   {
-    "img": "https://flagcdn.com/h240/ky.png",
+    "img": "ky.png",
     "options": ["christmas island", "cayman islands", "tonga"],
     "answer": "cayman islands"
   },
   {
-    "img": "https://flagcdn.com/h240/cf.png",
+    "img": "cf.png",
     "options": ["congo", "south sudan", "central african republic"],
     "answer": "central african republic"
   },
   {
-    "img": "https://flagcdn.com/h240/td.png",
+    "img": "td.png",
     "options": ["chad", "niger", "belgium"],
     "answer": "chad"
   },
   {
-    "img": "https://flagcdn.com/h240/cl.png",
+    "img": "cl.png",
     "options": ["liberia", "usa", "chile"],
     "answer": "chile"
   },
   {
-    "img": "https://flagcdn.com/h240/cn.png",
+    "img": "cn.png",
     "options": ["morocco", "china", "vietnam"],
     "answer": "china"
   },
   {
-    "img": "https://flagcdn.com/h240/cx.png",
+    "img": "cx.png",
     "options": ["pitcairn islands", "christmas island", "cocos islands"],
     "answer": "christmas island"
   },
   {
-    "img": "https://flagcdn.com/h240/cc.png",
+    "img": "cc.png",
     "options": ["french polynesia", "cocos islands", "christmas island"],
     "answer": "cocos island"
   },
   {
-    "img": "https://flagcdn.com/h240/co.png",
+    "img": "co.png",
     "options": ["ecuador", "venezuela", "colombia"],
     "answer": "colombia"
   },
   {
-    "img": "https://flagcdn.com/h240/km.png",
+    "img": "km.png",
     "options": ["seychelles", "comoros", "mauritius"],
     "answer": "comoros"
   },
   {
-    "img": "https://flagcdn.com/h240/cg.png",
+    "img": "cg.png",
     "options": ["gabon", "congo", "dr congo"],
     "answer": "congo"
   },
   {
-    "img": "https://flagcdn.com/h240/cd.png",
+    "img": "cd.png",
     "options": ["congo", "dr congo", "tanzania"],
     "answer": "dr congo"
   },
   {
-    "img": "https://flagcdn.com/h240/ck.png",
+    "img": "ck.png",
     "options": [
       "heard island and mcdonald islands",
       "cayman islands",
@@ -272,107 +272,107 @@
     "answer": "cook islands"
   },
   {
-    "img": "https://flagcdn.com/h240/cr.png",
+    "img": "cr.png",
     "options": ["costa rica", "thailand", "peru"],
     "answer": "costa rica"
   },
   {
-    "img": "https://flagcdn.com/h240/ci.png",
+    "img": "ci.png",
     "options": ["ivory coast", "ireland", "nigeria"],
     "answer": "ivory coast"
   },
   {
-    "img": "https://flagcdn.com/h240/hr.png",
+    "img": "hr.png",
     "options": ["slovakia", "croatia", "serbia"],
     "answer": "croatia"
   },
   {
-    "img": "https://flagcdn.com/h240/cu.png",
+    "img": "cu.png",
     "options": ["bahamas", "haiti", "cuba"],
     "answer": "cuba"
   },
   {
-    "img": "https://flagcdn.com/h240/cw.png",
+    "img": "cw.png",
     "options": ["brunei", "nauru", "curaçao"],
     "answer": "curaçao"
   },
   {
-    "img": "https://flagcdn.com/h240/cy.png",
+    "img": "cy.png",
     "options": ["greece", "cyprus", "malta"],
     "answer": "cyprus"
   },
   {
-    "img": "https://flagcdn.com/h240/cz.png",
+    "img": "cz.png",
     "options": ["poland", "slovakia", "czechia"],
     "answer": "czechia"
   },
   {
-    "img": "https://flagcdn.com/h240/dk.png",
+    "img": "dk.png",
     "options": ["denmark", "iceland", "norway"],
     "answer": "denmark"
   },
   {
-    "img": "https://flagcdn.com/h240/dj.png",
+    "img": "dj.png",
     "options": ["ethiopia", "djibouti", "somalia"],
     "answer": "djibouti"
   },
   {
-    "img": "https://flagcdn.com/h240/dm.png",
+    "img": "dm.png",
     "options": ["st lucia", "dominican republic", "dominica"],
     "answer": "dominica"
   },
   {
-    "img": "https://flagcdn.com/h240/do.png",
+    "img": "do.png",
     "options": ["dominican republic", "panama", "grenada"],
     "answer": "domincan republic"
   },
   {
-    "img": "https://flagcdn.com/h240/ec.png",
+    "img": "ec.png",
     "options": ["venezuela", "colombia", "ecuador"],
     "answer": "ecuador"
   },
   {
-    "img": "https://flagcdn.com/h240/eg.png",
+    "img": "eg.png",
     "options": ["yemen", "syria", "egypt"],
     "answer": "egypt"
   },
   {
-    "img": "https://flagcdn.com/h240/sv.png",
+    "img": "sv.png",
     "options": ["el salvador", "nicaragua", "honduras"],
     "answer": "el salvador"
   },
   {
-    "img": "https://flagcdn.com/h240/gb-eng.png",
+    "img": "gb-eng.png",
     "options": ["uk", "england", "denmark"],
     "answer": "england"
   },
   {
-    "img": "https://flagcdn.com/h240/gq.png",
+    "img": "gq.png",
     "options": ["guinea bissau", "guinea", "equatorial guinea"],
     "answer": "equatorial guinea"
   },
   {
-    "img": "https://flagcdn.com/h240/er.png",
+    "img": "er.png",
     "options": ["philippines", "eritrea", "ethiopia"],
     "answer": "eritrea"
   },
   {
-    "img": "https://flagcdn.com/h240/ee.png",
+    "img": "ee.png",
     "options": ["slovenia", "estonia", "lithuania"],
     "answer": "estonia"
   },
   {
-    "img": "https://flagcdn.com/h240/sz.png",
+    "img": "sz.png",
     "options": ["mozambique", "lesotho", "eswatini"],
     "answer": "eswatini"
   },
   {
-    "img": "https://flagcdn.com/h240/et.png",
+    "img": "et.png",
     "options": ["ethiopia", "niger", "sierra leone"],
     "answer": "ethiopia"
   },
   {
-    "img": "https://flagcdn.com/h240/fk.png",
+    "img": "fk.png",
     "options": [
       "pitcairn islands",
       "falkland islands",
@@ -381,37 +381,37 @@
     "answer": "falkland islands"
   },
   {
-    "img": "https://flagcdn.com/h240/fo.png",
+    "img": "fo.png",
     "options": ["finland", "aland islands", "faroe islands"],
     "answer": "faroe islands"
   },
   {
-    "img": "https://flagcdn.com/h240/fj.png",
+    "img": "fj.png",
     "options": ["fiji", "tuvalu", "micronesia"],
     "answer": "fiji"
   },
   {
-    "img": "https://flagcdn.com/h240/fi.png",
+    "img": "fi.png",
     "options": ["denmark", "finland", "sweden"],
     "answer": "finland"
   },
   {
-    "img": "https://flagcdn.com/h240/fr.png",
+    "img": "fr.png",
     "options": ["france", "italy", "ireland"],
     "answer": "france"
   },
   {
-    "img": "https://flagcdn.com/h240/gf.png",
+    "img": "gf.png",
     "options": ["guam", "french guiana", "burkina faso"],
     "answer": "french guiana"
   },
   {
-    "img": "https://flagcdn.com/h240/pf.png",
+    "img": "pf.png",
     "options": ["peru", "tajikistan", "french polynesia"],
     "answer": "french polynesia"
   },
   {
-    "img": "https://flagcdn.com/h240/tf.png",
+    "img": "tf.png",
     "options": [
       "northern mariana islands",
       "french southern and antarctic lands",
@@ -420,92 +420,92 @@
     "answer": "french southern and antarctic lands"
   },
   {
-    "img": "https://flagcdn.com/h240/ga.png",
+    "img": "ga.png",
     "options": ["gabon", "gambia", "guinea"],
     "answer": "gabon"
   },
   {
-    "img": "https://flagcdn.com/h240/gm.png",
+    "img": "gm.png",
     "options": ["zimbabwe", "gambia", "zambia"],
     "answer": "gambia"
   },
   {
-    "img": "https://flagcdn.com/h240/ge.png",
+    "img": "ge.png",
     "options": ["tonga", "england", "georgia"],
     "answer": "georgia"
   },
   {
-    "img": "https://flagcdn.com/h240/de.png",
+    "img": "de.png",
     "options": ["chad", "germany", "belgium"],
     "answer": "germany"
   },
   {
-    "img": "https://flagcdn.com/h240/gh.png",
+    "img": "gh.png",
     "options": ["ghana", "mali", "senegal"],
     "answer": "ghana"
   },
   {
-    "img": "https://flagcdn.com/h240/gi.png",
+    "img": "gi.png",
     "options": ["gibraltar", "bermuda", "guadeloupe"],
     "answer": "gibraltar"
   },
   {
-    "img": "https://flagcdn.com/h240/gr.png",
+    "img": "gr.png",
     "options": ["kyrgyzstan", "uruguay", "greece"],
     "answer": "greece"
   },
   {
-    "img": "https://flagcdn.com/h240/gl.png",
+    "img": "gl.png",
     "options": ["puerto rico", "greenland", "faroe islands"],
     "answer": "greenland"
   },
   {
-    "img": "https://flagcdn.com/h240/gd.png",
+    "img": "gd.png",
     "options": ["st lucia", "suriname", "grenada"],
     "answer": "grenada"
   },
   {
-    "img": "https://flagcdn.com/h240/gp.png",
+    "img": "gp.png",
     "options": ["guadelope", "martinique", "aruba"],
     "answer": "guadelope"
   },
   {
-    "img": "https://flagcdn.com/h240/gu.png",
+    "img": "gu.png",
     "options": ["new caledonia", "guam", "palau"],
     "answer": "guam"
   },
   {
-    "img": "https://flagcdn.com/h240/gt.png",
+    "img": "gt.png",
     "options": ["el salvador", "belize", "guatemala"],
     "answer": "guatemala"
   },
   {
-    "img": "https://flagcdn.com/h240/gg.png",
+    "img": "gg.png",
     "options": ["guernsey", "jersey", "england"],
     "answer": "guernsey"
   },
   {
-    "img": "https://flagcdn.com/h240/gn.png",
+    "img": "gn.png",
     "options": ["guinea bissau", "guinea", "mali"],
     "answer": "guinea"
   },
   {
-    "img": "https://flagcdn.com/h240/gw.png",
+    "img": "gw.png",
     "options": ["equatorial guinea", "guinea bissau", "mali"],
     "answer": "guinea bissau"
   },
   {
-    "img": "https://flagcdn.com/h240/gy.png",
+    "img": "gy.png",
     "options": ["panama", "suriname", "guyana"],
     "answer": "guyana"
   },
   {
-    "img": "https://flagcdn.com/h240/ht.png",
+    "img": "ht.png",
     "options": ["haiti", "liechtenstein", "kazakhstan"],
     "answer": "haiti"
   },
   {
-    "img": "https://flagcdn.com/h240/hm.png",
+    "img": "hm.png",
     "options": [
       "australia",
       "heard island and mcdonald islands",
@@ -514,402 +514,402 @@
     "answer": "heard island and mcdonald islands"
   },
   {
-    "img": "https://flagcdn.com/h240/hn.png",
+    "img": "hn.png",
     "options": ["nicaragua", "el salvador", "honduras"],
     "answer": "honduras"
   },
   {
-    "img": "https://flagcdn.com/h240/hk.png",
+    "img": "hk.png",
     "options": ["hong kong", "macau", "vietnam"],
     "answer": "hong kong"
   },
   {
-    "img": "https://flagcdn.com/h240/hu.png",
+    "img": "hu.png",
     "options": ["bulgaria", "hungary", "netherlands"],
     "answer": "hungary"
   },
   {
-    "img": "https://flagcdn.com/h240/is.png",
+    "img": "is.png",
     "options": ["sweden", "norway", "iceland"],
     "answer": "iceland"
   },
   {
-    "img": "https://flagcdn.com/h240/in.png",
+    "img": "in.png",
     "options": ["india", "niger", "pakistan"],
     "answer": "india"
   },
   {
-    "img": "https://flagcdn.com/h240/id.png",
+    "img": "id.png",
     "options": ["montenegro", "indonesia", "poland"],
     "answer": "indonesia"
   },
   {
-    "img": "https://flagcdn.com/h240/iran.png",
+    "img": "iran.png",
     "options": ["saudi arabia", "iraq", "iran"],
     "answer": "iran"
   },
   {
-    "img": "https://flagcdn.com/h240/iq.png",
+    "img": "iq.png",
     "options": ["iraq", "syria", "sudan"],
     "answer": "iraq"
   },
   {
-    "img": "https://flagcdn.com/h240/ie.png",
+    "img": "ie.png",
     "options": ["israel", "ireland", "ivory coast"],
     "answer": "ireland"
   },
   {
-    "img": "https://flagcdn.com/h240/im.png",
+    "img": "im.png",
     "options": ["scotland", "wales", "isle of man"],
     "answer": "isle of man"
   },
   {
-    "img": "https://flagcdn.com/h240/il.png",
+    "img": "il.png",
     "options": ["israel", "somalia", "micronesia"],
     "answer": "israel"
   },
   {
-    "img": "https://flagcdn.com/h240/it.png",
+    "img": "it.png",
     "options": ["monaco", "italy", "france"],
     "answer": "italy"
   },
   {
-    "img": "https://flagcdn.com/h240/jm.png",
+    "img": "jm.png",
     "options": ["scotland", "guyana", "jamaica"],
     "answer": "jamaica"
   },
   {
-    "img": "https://flagcdn.com/h240/jp.png",
+    "img": "jp.png",
     "options": ["japan", "hong kong", "south korea"],
     "answer": "japan"
   },
   {
-    "img": "https://flagcdn.com/h240/je.png",
+    "img": "je.png",
     "options": ["guernsey", "jersey", "georgia"],
     "answer": "jersey"
   },
   {
-    "img": "https://flagcdn.com/h240/jo.png",
+    "img": "jo.png",
     "options": ["sudan", "palestine", "jordan"],
     "answer": "jordan"
   },
   {
-    "img": "https://flagcdn.com/h240/kz.png",
+    "img": "kz.png",
     "options": ["kazakhstan", "palau", "russia"],
     "answer": "kazakhstan"
   },
   {
-    "img": "https://flagcdn.com/h240/ke.png",
+    "img": "ke.png",
     "options": ["tanzania", "kenya", "malawi"],
     "answer": "kenya"
   },
   {
-    "img": "https://flagcdn.com/h240/ki.png",
+    "img": "ki.png",
     "options": ["papua new guinea", "vanuatu", "kiribati"],
     "answer": "kiribati"
   },
   {
-    "img": "https://flagcdn.com/h240/kp.png",
+    "img": "kp.png",
     "options": ["north korea", "china", "south korea"],
     "answer": "north korea"
   },
   {
-    "img": "https://flagcdn.com/h240/kr.png",
+    "img": "kr.png",
     "options": ["mongolia", "south korea", "japan"],
     "answer": "south korea"
   },
   {
-    "img": "https://flagcdn.com/h240/xk.png",
+    "img": "xk.png",
     "options": ["tokelau", "albania", "kosovo"],
     "answer": "kosovo"
   },
   {
-    "img": "https://flagcdn.com/h240/kw.png",
+    "img": "kw.png",
     "options": ["kuwait", "jordan", "syria"],
     "answer": "kuwait"
   },
   {
-    "img": "https://flagcdn.com/h240/kg.png",
+    "img": "kg.png",
     "options": ["uzbekistan", "kyrgyzstan", "tajikistan"],
     "answer": "kyrgyzstan"
   },
   {
-    "img": "https://flagcdn.com/h240/la.png",
+    "img": "la.png",
     "options": ["cambodia", "thailand", "laos"],
     "answer": "laos"
   },
   {
-    "img": "https://flagcdn.com/h240/lv.png",
+    "img": "lv.png",
     "options": ["latvia", "austria", "lithuania"],
     "answer": "latvia"
   },
   {
-    "img": "https://flagcdn.com/h240/lb.png",
+    "img": "lb.png",
     "options": ["turkey", "lebanon", "latvia"],
     "answer": "lebanon"
   },
   {
-    "img": "https://flagcdn.com/h240/ls.png",
+    "img": "ls.png",
     "options": ["namibia", "zimbabwe", "lesotho"],
     "answer": "lesotho"
   },
   {
-    "img": "https://flagcdn.com/h240/lr.png",
+    "img": "lr.png",
     "options": ["liberia", "usa", "malaysia"],
     "answer": "liberia"
   },
   {
-    "img": "https://flagcdn.com/h240/ly.png",
+    "img": "ly.png",
     "options": ["malaysia", "libya", "azerbaijan"],
     "answer": "libya"
   },
   {
-    "img": "https://flagcdn.com/h240/li.png",
+    "img": "li.png",
     "options": ["slovenia", "switzerland", "liechtenstein"],
     "answer": "liechtenstein"
   },
   {
-    "img": "https://flagcdn.com/h240/lt.png",
+    "img": "lt.png",
     "options": ["lithuania", "latvia", "myanmar"],
     "answer": "lithuania"
   },
   {
-    "img": "https://flagcdn.com/h240/lu.png",
+    "img": "lu.png",
     "options": ["france", "luxembourg", "netherlands"],
     "answer": "luxembourg"
   },
   {
-    "img": "https://flagcdn.com/h240/macau.png",
+    "img": "macau.png",
     "options": ["cambodia", "hong kong", "macau"],
     "answer": "macau"
   },
   {
-    "img": "https://flagcdn.com/h240/mg.png",
+    "img": "mg.png",
     "options": ["madagascar", "benin", "mozambique"],
     "answer": "madagascar"
   },
   {
-    "img": "https://flagcdn.com/h240/mw.png",
+    "img": "mw.png",
     "options": ["uganda", "malawi", "tanzania"],
     "answer": "malawi"
   },
   {
-    "img": "https://flagcdn.com/h240/my.png",
+    "img": "my.png",
     "options": ["liberia", "chile", "malaysia"],
     "answer": "malaysia"
   },
   {
-    "img": "https://flagcdn.com/h240/mv.png",
+    "img": "mv.png",
     "options": ["maldives", "mauritania", "algeria"],
     "answer": "maldives"
   },
   {
-    "img": "https://flagcdn.com/h240/ml.png",
+    "img": "ml.png",
     "options": ["guinea", "senegal", "mali"],
     "answer": "mali"
   },
   {
-    "img": "https://flagcdn.com/h240/mt.png",
+    "img": "mt.png",
     "options": ["jersey", "georgia", "malta"],
     "answer": "malta"
   },
   {
-    "img": "https://flagcdn.com/h240/mh.png",
+    "img": "mh.png",
     "options": ["solomon islands", "marshall islands", "cook islands"],
     "answer": "marshall islands"
   },
   {
-    "img": "https://flagcdn.com/h240/mq.png",
+    "img": "mq.png",
     "options": ["martinique", "nauru", "tokelau"],
     "answer": "martinique"
   },
   {
-    "img": "https://flagcdn.com/h240/mr.png",
+    "img": "mr.png",
     "options": ["pakistan", "mauritania", "maldives"],
     "answer": "mauritania"
   },
   {
-    "img": "https://flagcdn.com/h240/mu.png",
+    "img": "mu.png",
     "options": ["sao tome and principe", "seychelles", "mauritius"],
     "answer": "mauritius"
   },
   {
-    "img": "https://flagcdn.com/h240/yt.png",
+    "img": "yt.png",
     "options": ["mayotte", "reunion", "st helena"],
     "answer": "mayotte"
   },
   {
-    "img": "https://flagcdn.com/h240/mx.png",
+    "img": "mx.png",
     "options": ["cuba", "mexico", "italy"],
     "answer": "mexico"
   },
   {
-    "img": "https://flagcdn.com/h240/fm.png",
+    "img": "fm.png",
     "options": ["israel", "somalia", "micronesia"],
     "answer": "micronesia"
   },
   {
-    "img": "https://flagcdn.com/h240/md.png",
+    "img": "md.png",
     "options": ["moldova", "romania", "chad"],
     "answer": "moldova"
   },
   {
-    "img": "https://flagcdn.com/h240/mc.png",
+    "img": "mc.png",
     "options": ["malta", "monaco", "poland"],
     "answer": "monaco"
   },
   {
-    "img": "https://flagcdn.com/h240/mn.png",
+    "img": "mn.png",
     "options": ["sri lanka", "kazakhstan", "mongolia"],
     "answer": "mongolia"
   },
   {
-    "img": "https://flagcdn.com/h240/me.png",
+    "img": "me.png",
     "options": ["montenegro", "serbia", "albania"],
     "answer": "montenegro"
   },
   {
-    "img": "https://flagcdn.com/h240/ms.png",
+    "img": "ms.png",
     "options": ["australia", "montserrat", "cook islands"],
     "answer": "montserrat"
   },
   {
-    "img": "https://flagcdn.com/h240/ma.png",
+    "img": "ma.png",
     "options": ["vietnam", "monaco", "morocco"],
     "answer": "morocco"
   },
   {
-    "img": "https://flagcdn.com/h240/mz.png",
+    "img": "mz.png",
     "options": ["mozambique", "zimbabwe", "eswatini"],
     "answer": "mozambique"
   },
   {
-    "img": "https://flagcdn.com/h240/mn.png",
+    "img": "mn.png",
     "options": ["bangladesh", "myanmar", "lithuania"],
     "answer": "myanmar"
   },
   {
-    "img": "https://flagcdn.com/h240/na.png",
+    "img": "na.png",
     "options": ["kiribati", "dr congo", "namibia"],
     "answer": "namibia"
   },
   {
-    "img": "https://flagcdn.com/h240/nr.png",
+    "img": "nr.png",
     "options": ["nauru", "samoa", "marshall islands"],
     "answer": "nauru"
   },
   {
-    "img": "https://flagcdn.com/h240/np.png",
+    "img": "np.png",
     "options": ["mozambique", "nepal", "qatar"],
     "answer": "nepal"
   },
   {
-    "img": "https://flagcdn.com/h240/nl.png",
+    "img": "nl.png",
     "options": ["paraguay", "luxembourg", "netherlands"],
     "answer": "netherlands"
   },
   {
-    "img": "https://flagcdn.com/h240/nc.png",
+    "img": "nc.png",
     "options": ["new caledonia", "gabon", "estonia"],
     "answer": "new caledonia"
   },
   {
-    "img": "https://flagcdn.com/h240/nz.png",
+    "img": "nz.png",
     "options": ["st helena", "new zealand", "australia"],
     "answer": "new zealand"
   },
   {
-    "img": "https://flagcdn.com/h240/ni.png",
+    "img": "ni.png",
     "options": ["el salvador", "honduras", "nicaragua"],
     "answer": "nicaragua"
   },
   {
-    "img": "https://flagcdn.com/h240/ne.png",
+    "img": "ne.png",
     "options": ["niger", "india", "burkina faso"],
     "answer": "niger"
   },
   {
-    "img": "https://flagcdn.com/h240/ng.png",
+    "img": "ng.png",
     "options": ["ivory coast", "nigeria", "ireland"],
     "answer": "nigeria"
   },
   {
-    "img": "https://flagcdn.com/h240/nu.png",
+    "img": "nu.png",
     "options": ["st helena", "falkland islands", "niue"],
     "answer": "niue"
   },
   {
-    "img": "https://flagcdn.com/h240/nf.png",
+    "img": "nf.png",
     "options": ["norfolk island", "nigeria", "lebanon"],
     "answer": "norfolk island"
   },
   {
-    "img": "https://flagcdn.com/h240/mp.png",
+    "img": "mp.png",
     "options": ["israel", "northern mariana islands", "somalia"],
     "answer": "northern mariana islands"
   },
   {
-    "img": "https://flagcdn.com/h240/mk.png",
+    "img": "mk.png",
     "options": ["uruguay", "kiribati", "north macedonia"],
     "answer": "north macedonia"
   },
   {
-    "img": "https://flagcdn.com/h240/gb-nir.png",
+    "img": "gb-nir.png",
     "options": ["northern ireland", "england", "georgia"],
     "answer": "northern ireland"
   },
   {
-    "img": "https://flagcdn.com/h240/no.png",
+    "img": "no.png",
     "options": ["sweden", "norway", "iceland"],
     "answer": "norway"
   },
   {
-    "img": "https://flagcdn.com/h240/om.png",
+    "img": "om.png",
     "options": ["madagascar", "uae", "oman"],
     "answer": "oman"
   },
   {
-    "img": "https://flagcdn.com/h240/pk.png",
+    "img": "pk.png",
     "options": ["pakistan", "maldives", "mauritania"],
     "answer": "pakistan"
   },
   {
-    "img": "https://flagcdn.com/h240/pw.png",
+    "img": "pw.png",
     "options": ["japan", "palau", "kazakhstan"],
     "answer": "palau"
   },
   {
-    "img": "https://flagcdn.com/h240/ps.png",
+    "img": "ps.png",
     "options": ["jordan", "sudan", "palestine"],
     "answer": "palestine"
   },
   {
-    "img": "https://flagcdn.com/h240/pa.png",
+    "img": "pa.png",
     "options": ["panama", "dominican republic", "belize"],
     "answer": "panama"
   },
   {
-    "img": "https://flagcdn.com/h240/pg.png",
+    "img": "pg.png",
     "options": ["sri lanka", "papua new guinea", "bosnia and herzegovina"],
     "answer": "papua new guinea"
   },
   {
-    "img": "https://flagcdn.com/h240/py.png",
+    "img": "py.png",
     "options": ["luxembourg", "netherlands", "paraguay"],
     "answer": "paraguay"
   },
   {
-    "img": "https://flagcdn.com/h240/pe.png",
+    "img": "pe.png",
     "options": ["peru", "canada", "belgium"],
     "answer": "peru"
   },
   {
-    "img": "https://flagcdn.com/h240/ph.png",
+    "img": "ph.png",
     "options": ["bahamas", "philippines", "czechia"],
     "answer": "philippines"
   },
   {
-    "img": "https://flagcdn.com/h240/pn.png",
+    "img": "pn.png",
     "options": [
       "heard island and mcdonald islands",
       "cayman islands",
@@ -918,57 +918,57 @@
     "answer": "pitcairn islands"
   },
   {
-    "img": "https://flagcdn.com/h240/pl.png",
+    "img": "pl.png",
     "options": ["poland", "monaco", "indonesia"],
     "answer": "poland"
   },
   {
-    "img": "https://flagcdn.com/h240/pt.png",
+    "img": "pt.png",
     "options": ["algeria", "portugal", "brazil"],
     "answer": "portugal"
   },
   {
-    "img": "https://flagcdn.com/h240/pr.png",
+    "img": "pr.png",
     "options": ["usa", "cuba", "puerto rico"],
     "answer": "puerto rico"
   },
   {
-    "img": "https://flagcdn.com/h240/qa.png",
+    "img": "qa.png",
     "options": ["qatar", "bahrain", "kuwait"],
     "answer": "qatar"
   },
   {
-    "img": "https://flagcdn.com/h240/re.png",
+    "img": "re.png",
     "options": ["mayotte", "reunion", "north macedonia"],
     "answer": "reunion"
   },
   {
-    "img": "https://flagcdn.com/h240/ro.png",
+    "img": "ro.png",
     "options": ["moldova", "andorra", "romania"],
     "answer": "romania"
   },
   {
-    "img": "https://flagcdn.com/h240/ru.png",
+    "img": "ru.png",
     "options": ["russia", "netherlands", "luxembourg"],
     "answer": "russia"
   },
   {
-    "img": "https://flagcdn.com/h240/rw.png",
+    "img": "rw.png",
     "options": ["dr congo", "rwanda", "ukraine"],
     "answer": "rwanda"
   },
   {
-    "img": "https://flagcdn.com/h240/bl.png",
+    "img": "bl.png",
     "options": ["france", "mayotte", "st barthelemy"],
     "answer": "st barthelemy"
   },
   {
-    "img": "https://flagcdn.com/h240/sh.png",
+    "img": "sh.png",
     "options": ["st helena", "cocos islands", "pitcairn islands"],
     "answer": "st helena"
   },
   {
-    "img": "https://flagcdn.com/h240/kn.png",
+    "img": "kn.png",
     "options": [
       "st lucia",
       "st kitts and nevis",
@@ -977,7 +977,7 @@
     "answer": "st kitts and nevis"
   },
   {
-    "img": "https://flagcdn.com/h240/lc.png",
+    "img": "lc.png",
     "options": [
       "st vincent and the grenadines",
       "st lucia",
@@ -986,7 +986,7 @@
     "answer": "st lucia"
   },
   {
-    "img": "https://flagcdn.com/h240/pm.png",
+    "img": "pm.png",
     "options": [
       "st vincent and the grenadines",
       "st helena",
@@ -995,7 +995,7 @@
     "answer": "st pierre and miquelon"
   },
   {
-    "img": "https://flagcdn.com/h240/vc.png",
+    "img": "vc.png",
     "options": [
       "st vincent and the grenadines",
       "st lucia",
@@ -1004,87 +1004,87 @@
     "answer": "st vincent and the grenadines"
   },
   {
-    "img": "https://flagcdn.com/h240/ws.png",
+    "img": "ws.png",
     "options": ["american samoa", "samoa", "australia"],
     "answer": "samoa"
   },
   {
-    "img": "https://flagcdn.com/h240/sm.png",
+    "img": "sm.png",
     "options": ["scotland", "somalia", "san marino"],
     "answer": "san marino"
   },
   {
-    "img": "https://flagcdn.com/h240/st.png",
+    "img": "st.png",
     "options": ["sao tome and principe", "equatorial guinea", "mozambique"],
     "answer": "sao tome and principe"
   },
   {
-    "img": "https://flagcdn.com/h240/sa.png",
+    "img": "sa.png",
     "options": ["iraq", "saudi arabia", "libya"],
     "answer": "saudi arabia"
   },
   {
-    "img": "https://flagcdn.com/h240/gb-sct.png",
+    "img": "gb-sct.png",
     "options": ["san marino", "somalia", "scotland"],
     "answer": "scotland"
   },
   {
-    "img": "https://flagcdn.com/h240/sn.png",
+    "img": "sn.png",
     "options": ["senegal", "mali", "guinea"],
     "answer": "senegal"
   },
   {
-    "img": "https://flagcdn.com/h240/rs.png",
+    "img": "rs.png",
     "options": ["slovenia", "serbia", "slovakia"],
     "answer": "serbia"
   },
   {
-    "img": "https://flagcdn.com/h240/sc.png",
+    "img": "sc.png",
     "options": ["central african republic", "mauritius", "seychelles"],
     "answer": "seychelles"
   },
   {
-    "img": "https://flagcdn.com/h240/sl.png",
+    "img": "sl.png",
     "options": ["sierra leone", "gabon", "luxembourg"],
     "answer": "sierra leone"
   },
   {
-    "img": "https://flagcdn.com/h240/sg.png",
+    "img": "sg.png",
     "options": ["turkey", "singapore", "malaysia"],
     "answer": "singapore"
   },
   {
-    "img": "https://flagcdn.com/h240/sx.png",
+    "img": "sx.png",
     "options": ["philippines", "st martin", "sint maarten"],
     "answer": "sint maarten"
   },
   {
-    "img": "https://flagcdn.com/h240/sk.png",
+    "img": "sk.png",
     "options": ["slovakia", "slovenia", "serbia"],
     "answer": "slovakia"
   },
   {
-    "img": "https://flagcdn.com/h240/si.png",
+    "img": "si.png",
     "options": ["serbia", "slovenia", "slovakia"],
     "answer": "slovenia"
   },
   {
-    "img": "https://flagcdn.com/h240/sb.png",
+    "img": "sb.png",
     "options": ["christmas island", "dr congo", "solomon islands"],
     "answer": "solomon islands"
   },
   {
-    "img": "https://flagcdn.com/h240/so.png",
+    "img": "so.png",
     "options": ["somalia", "israel", "micronesia"],
     "answer": "somalia"
   },
   {
-    "img": "https://flagcdn.com/h240/za.png",
+    "img": "za.png",
     "options": ["south sudan", "south africa", "zimbabwe"],
     "answer": "south africa"
   },
   {
-    "img": "https://flagcdn.com/h240/gs.png",
+    "img": "gs.png",
     "options": [
       "falkland islands",
       "cayman islands",
@@ -1093,112 +1093,112 @@
     "answer": "south georgia and the south sandwich islands"
   },
   {
-    "img": "https://flagcdn.com/h240/ss.png",
+    "img": "ss.png",
     "options": ["south sudan", "south africa", "sudan"],
     "answer": "south sudan"
   },
   {
-    "img": "https://flagcdn.com/h240/es.png",
+    "img": "es.png",
     "options": ["andorra", "spain", "ghana"],
     "answer": "spain"
   },
   {
-    "img": "https://flagcdn.com/h240/lk.png",
+    "img": "lk.png",
     "options": ["suriname", "india", "sri lanka"],
     "answer": "sri lanka"
   },
   {
-    "img": "https://flagcdn.com/h240/sd.png",
+    "img": "sd.png",
     "options": ["sudan", "palestine", "jordan"],
     "answer": "sudan"
   },
   {
-    "img": "https://flagcdn.com/h240/sr.png",
+    "img": "sr.png",
     "options": ["ghana", "suriname", "portugal"],
     "answer": "suriname"
   },
   {
-    "img": "https://flagcdn.com/h240/sj.png",
+    "img": "sj.png",
     "options": ["denmark", "iceland", "svalbard"],
     "answer": "svalbard"
   },
   {
-    "img": "https://flagcdn.com/h240/se.png",
+    "img": "se.png",
     "options": ["sweden", "iceland", "aland islands"],
     "answer": "sweden"
   },
   {
-    "img": "https://flagcdn.com/h240/ch.png",
+    "img": "ch.png",
     "options": ["tonga", "switzerland", "denmark"],
     "answer": "switzerland"
   },
   {
-    "img": "https://flagcdn.com/h240/sy.png",
+    "img": "sy.png",
     "options": ["yemen", "iraq", "syria"],
     "answer": "syria"
   },
   {
-    "img": "https://flagcdn.com/h240/tw.png",
+    "img": "tw.png",
     "options": ["taiwan", "samoa", "uae"],
     "answer": "taiwan"
   },
   {
-    "img": "https://flagcdn.com/h240/tj.png",
+    "img": "tj.png",
     "options": ["netherlands", "tajikistan", "hungary"],
     "answer": "tajikistan"
   },
   {
-    "img": "https://flagcdn.com/h240/tz.png",
+    "img": "tz.png",
     "options": ["congo", "namibia", "tanzania"],
     "answer": "tanzania"
   },
   {
-    "img": "https://flagcdn.com/h240/th.png",
+    "img": "th.png",
     "options": ["thailand", "costa rica", "laos"],
     "answer": "thailand"
   },
   {
-    "img": "https://flagcdn.com/h240/tl.png",
+    "img": "tl.png",
     "options": ["togo", "timor leste", "south sudan"],
     "answer": "timor leste"
   },
   {
-    "img": "https://flagcdn.com/h240/tg.png",
+    "img": "tg.png",
     "options": ["liberia", "tonga", "togo"],
     "answer": "togo"
   },
   {
-    "img": "https://flagcdn.com/h240/tk.png",
+    "img": "tk.png",
     "options": ["tokelau", "bosnia and herzegovina", "barbados"],
     "answer": "tokelau"
   },
   {
-    "img": "https://flagcdn.com/h240/to.png",
+    "img": "to.png",
     "options": ["switzerland", "tonga", "denmark"],
     "answer": "tonga"
   },
   {
-    "img": "https://flagcdn.com/h240/tt.png",
+    "img": "tt.png",
     "options": ["tanzania", "congo", "trinidad and tobago"],
     "answer": "trinidad and tobago"
   },
   {
-    "img": "https://flagcdn.com/h240/tn.png",
+    "img": "tn.png",
     "options": ["tunisia", "turkey", "singapore"],
     "answer": "tunisia"
   },
   {
-    "img": "https://flagcdn.com/h240/tr.png",
+    "img": "tr.png",
     "options": ["tunisia", "turkey", "singapore"],
     "answer": "turkey"
   },
   {
-    "img": "https://flagcdn.com/h240/tm.png",
+    "img": "tm.png",
     "options": ["belarus", "algeria", "turkmenistan"],
     "answer": "turkmenistan"
   },
   {
-    "img": "https://flagcdn.com/h240/tc.png",
+    "img": "tc.png",
     "options": [
       "turks and caicos islands",
       "falkland islands",
@@ -1207,67 +1207,67 @@
     "answer": "turks and caicos islands"
   },
   {
-    "img": "https://flagcdn.com/h240/tv.png",
+    "img": "tv.png",
     "options": ["australia", "tuvalu", "fij"],
     "answer": "tuvalu"
   },
   {
-    "img": "https://flagcdn.com/h240/ug.png",
+    "img": "ug.png",
     "options": ["rwanda", "kenya", "uganda"],
     "answer": "uganda"
   },
   {
-    "img": "https://flagcdn.com/h240/ua.png",
+    "img": "ua.png",
     "options": ["ukraine", "poland", "rwanda"],
     "answer": "ukraine"
   },
   {
-    "img": "https://flagcdn.com/h240/ae.png",
+    "img": "ae.png",
     "options": ["lebanon", "uae", "kuwait"],
     "answer": "uae"
   },
   {
-    "img": "https://flagcdn.com/h240/gb.png",
+    "img": "gb.png",
     "options": ["france", "england", "uk"],
     "answer": "uk"
   },
   {
-    "img": "https://flagcdn.com/h240/us.png",
+    "img": "us.png",
     "options": ["usa", "liberia", "malaysia"],
     "answer": "usa"
   },
   {
-    "img": "https://flagcdn.com/h240/uy.png",
+    "img": "uy.png",
     "options": ["greece", "uruguay", "argentina"],
     "answer": "uruguay"
   },
   {
-    "img": "https://flagcdn.com/h240/uz.png",
+    "img": "uz.png",
     "options": ["kazakhstan", "tajikistan", "uzbekistan"],
     "answer": "uzbekistan"
   },
   {
-    "img": "https://flagcdn.com/h240/vu.png",
+    "img": "vu.png",
     "options": ["vanuatu", "south africa", "zimbabwe"],
     "answer": "vanuatu"
   },
   {
-    "img": "https://flagcdn.com/h240/va.png",
+    "img": "va.png",
     "options": ["malta", "vatican city", "san marino"],
     "answer": "vatican city"
   },
   {
-    "img": "https://flagcdn.com/h240/ve.png",
+    "img": "ve.png",
     "options": ["colombia", "ecuador", "venezuela"],
     "answer": "venezuela"
   },
   {
-    "img": "https://flagcdn.com/h240/vn.png",
+    "img": "vn.png",
     "options": ["vietnam", "morocco", "somalia"],
     "answer": "vietnam"
   },
   {
-    "img": "https://flagcdn.com/h240/vg.png",
+    "img": "vg.png",
     "options": [
       "pitcairn islands",
       "british virgin islands",
@@ -1276,7 +1276,7 @@
     "answer": "british virgin islands"
   },
   {
-    "img": "https://flagcdn.com/h240/vi.png",
+    "img": "vi.png",
     "options": [
       "french southern and antarctic lands",
       "usa",
@@ -1285,32 +1285,32 @@
     "answer": "us virgin islands"
   },
   {
-    "img": "https://flagcdn.com/h240/gb-wls.png",
+    "img": "gb-wls.png",
     "options": ["wales", "bhutan", "uk"],
     "answer": "wales"
   },
   {
-    "img": "https://flagcdn.com/h240/wf.png",
+    "img": "wf.png",
     "options": ["french guiana", "wallis and futuna", "french polynesia"],
     "answer": "wallis and futuna"
   },
   {
-    "img": "https://flagcdn.com/h240/eh.png",
+    "img": "eh.png",
     "options": ["sudan", "palestine", "western sahara"],
     "answer": "western sahara"
   },
   {
-    "img": "https://flagcdn.com/h240/ye.png",
+    "img": "ye.png",
     "options": ["yemen", "iraq", "egypt"],
     "answer": "yemen"
   },
   {
-    "img": "https://flagcdn.com/h240/zm.png",
+    "img": "zm.png",
     "options": ["turkmenistan", "zambia", "belarus"],
     "answer": "zambia"
   },
   {
-    "img": "https://flagcdn.com/h240/zw.png",
+    "img": "zw.png",
     "options": ["lesotho", "madagascar", "zimbabwe"],
     "answer": "zimbabwe"
   }
